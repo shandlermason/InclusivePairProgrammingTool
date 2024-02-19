@@ -7,7 +7,7 @@
 | Backend (Database)                 | B    |             |                |
 | Key Strokes (Lines of code)        | B    |             |                |
 | VS Code Extension                  | B    |             |                |
-| Prototypes                         | B    |             |                |
+| Prototypes                         | B / Shandler    |             |                |
 
 
 
