@@ -5,9 +5,9 @@
 | Video Call                         | S    |             |                |
 | Speech Recognition (Utterances)    | S    |             |                |
 | Speech Recognition (Interruptions) | S    |             |                |
-| Backend (Database)                 | B    |             |                |
-| Key Strokes (Lines of code)        | B    |             |                |
-| VS Code Extension                  | B    |             |                |
+| Backend (Database)                 | B    | Done           |  Done           |
+| Key Strokes (Lines of code)        | B    |    Done         |   Done             |
+| VS Code Extension                  | B    |   Done          |       Done         |
 | Prototypes                         | Sh    |             |                |
 | Share screen (Possibly using Liveshare)                       |  |             |                |
 | Measure for role exchange (what metric can we use to track if partners are switching roles?)                       |  |             |                |
