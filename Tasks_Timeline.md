@@ -16,6 +16,10 @@
 
 S-Sanket; B-Brennen; Sh-Shandler
 
+
+![Screenshot 2024-02-26 at 3 40 51 PM](https://github.com/shandlermason/InclusivePairProgrammingTool/assets/46688470/579a3246-a420-4379-9f49-b69df7654757)
+
+
 **_Features_**
 
 |     **Features**    |                    |                  **Metrics**                  |                                                           | **Technical Aspect** |
