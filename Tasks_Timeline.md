@@ -5,9 +5,9 @@
 | Video Call                         | S    |             |                |
 | Speech Recognition (Utterances)    | S    |             |                |
 | Speech Recognition (Interruptions) | S    |             |                |
-| Backend (Database)                 | B    | Done           |  Done           |
-| Key Strokes (Lines of code)        | B    |    Done         |   Done             |
-| VS Code Extension                  | B    |   Done          |       Done         |
+| Backend (Database)                 | B    | :heavy_check_mark:        |  :heavy_check_mark:          |
+| Key Strokes (Lines of code)        | B    |    :heavy_check_mark:        |  :heavy_check_mark:            |
+| VS Code Extension                  | B    |   :heavy_check_mark:         |      :heavy_check_mark:         |
 | Prototypes                         | Sh    |             |                |
 | Share screen (Possibly using Liveshare)                       |  |             |                |
 | Measure for role exchange (what metric can we use to track if partners are switching roles?)                       |  |             |                |
@@ -44,7 +44,7 @@ S-Sanket; B-Brennen; Sh-Shandler
 | **Week**               | **Task** | **ToDo**                                                                               | **Questions?** |
 |------------------------|----------|----------------------------------------------------------------------------------------|----------------|
 | Feb 26                 | S        | (1) Finish comparisons (2) Work on voice semantics for communication paper             |                |
-|                        | B        | (1) Set up the backend and make sure we can communicate with the backend                                                           |                |
+|                        | B        | (1) Finish comparisons :heavy_check_mark: (2) Set up the backend and make sure we can communicate with the backend                                                           |                |
 |                        | Sh       | (1) Finish comparison of prototypes (2) Create new paper prototypes (P-1.0)            |                |
 | Mar 4                  | S        | (1) (2)                                                                                |                |
 |                        | B        | (1) (2)                                                                                |                |
