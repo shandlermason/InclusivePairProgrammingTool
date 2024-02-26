@@ -8,7 +8,7 @@
 | Backend (Database)                 | B    |             |                |
 | Key Strokes (Lines of code)        | B    |             |                |
 | VS Code Extension                  | B    |             |                |
-| Prototypes                         | B / Sh    |             |                |
+| Prototypes                         | Sh    |             |                |
 | Share screen (Possibly using Liveshare)                       |  |             |                |
 | Measure for role exchange (what metric can we use to track if partners are switching roles?)                       |  |             |                |
 | Detect laughing or mimicking                  |  |             |                |
@@ -40,7 +40,7 @@ S-Sanket; B-Brennen; Sh-Shandler
 | **Week**               | **Task** | **ToDo**                                                                               | **Questions?** |
 |------------------------|----------|----------------------------------------------------------------------------------------|----------------|
 | Feb 26                 | S        | (1) Finish comparisons (2) Work on voice semantics for communication paper             |                |
-|                        | B        | (1) Finish comparisons (2)                                                             |                |
+|                        | B        | (1) Set up the backend and make sure we can communicate with the backend                                                           |                |
 |                        | Sh       | (1) Finish comparison of prototypes (2) Create new paper prototypes (P-1.0)            |                |
 | Mar 4                  | S        | (1) (2)                                                                                |                |
 |                        | B        | (1) (2)                                                                                |                |
