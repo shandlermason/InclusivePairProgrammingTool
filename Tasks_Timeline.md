@@ -1,10 +1,10 @@
 **_Comparisons_**
 |                                    | Task | Summer Team | Senior Project |
 |------------------------------------|------|-------------|----------------|
-| Facial Recoginiton                 | S    |             |                |
-| Video Call                         | S    |             |                |
-| Speech Recognition (Utterances)    | S    |             |                |
-| Speech Recognition (Interruptions) | S    |             |                |
+| Facial Recoginiton                 | S    |    :heavy_check_mark:          |  :heavy_check_mark:               |
+| Video Call                         | S    |     :heavy_check_mark:         |     :heavy_check_mark:            |
+| Speech Recognition (Utterances)    | S    |        :heavy_check_mark:      |        :heavy_check_mark:         |
+| Speech Recognition (Interruptions) | S    |        :heavy_check_mark:      |    :heavy_check_mark:             |
 | Backend (Database)                 | B    | :heavy_check_mark:        |  :heavy_check_mark:          |
 | Key Strokes (Lines of code)        | B    |    :heavy_check_mark:        |  :heavy_check_mark:            |
 | VS Code Extension                  | B    |   :heavy_check_mark:         |      :heavy_check_mark:         |
@@ -29,11 +29,11 @@ S-Sanket; B-Brennen; Sh-Shandler
 
 | **Week**               | **Task** | **ToDo**                                                                               | **Questions?** |
 |------------------------|----------|----------------------------------------------------------------------------------------|----------------|
-| Feb 26                 | S        | (1) Finish comparisons (2) Work on voice semantics for communication paper             |                |
+| Feb 26                 | S        | (1) Finish comparisons :heavy_check_mark: (2) Work on voice semantics for communication paper             |                |
 |                        | B        | (1) Finish comparisons :heavy_check_mark: (2) Set up the backend and make sure we can communicate with the backend (send/receive)                                                           |                |
 |                        | Sh       | (1) Finish comparison of prototypes (2) Create new paper prototypes (P-1.0)            |                |
-| Mar 4                  | S        | (1) (2)                                                                                |                |
-|                        | B        | (1) (2)                                                                                |                |
+| Mar 4                  | S        | (1) Work on interruptions (for real-time) using communication paper code. (2) Look into Deepgram. Is it free? (3) Work on voice semantics for communication paper (run transcripts through model)                                                                                |                |
+|                        | B        | (1) Set up the backend and make sure we can communicate with the backend (send/receive) (MongoDB), (WebSocket) (2) Write comments for each method / section of code                                                                                 |                |
 |                        | Sh       | (1) (2)                                                                                |                |
 | Mar 11  (Spring Break) | --       | --                                                                                     | --             |
 | Mar 18                 | S        | (1) (2)                                                                                |                |
