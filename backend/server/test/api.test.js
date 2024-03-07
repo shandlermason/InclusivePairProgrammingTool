@@ -4,7 +4,8 @@ const supertest = require("supertest");
 const app = require("../server");
 const { MongoMemoryServer } = require('mongodb-memory-server');
 require("dotenv").config();
-
+//sample test database, test using jest
+//test compand -> \backend\server> npm test
 
 let mongoServer;
 beforeAll(async () => {
