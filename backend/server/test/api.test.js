@@ -5,6 +5,8 @@ const app = require("../server");
 const { MongoMemoryServer } = require('mongodb-memory-server');
 require("dotenv").config();
 //sample test database, test using jest
+
+//_________HOW TO TEST_________
 //test compand -> \backend\server> npm test
 
 let mongoServer;

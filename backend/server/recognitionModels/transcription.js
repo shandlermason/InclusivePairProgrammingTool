@@ -11,7 +11,6 @@ const axios = require('axios');
 
 //const client = new Deepgram(process.env.DEEPGRAM_API_KEY)
 
-
 websocketRouter.ws('/voice', (ws, req) => {
 
   let keepAlive;

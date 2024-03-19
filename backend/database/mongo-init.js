@@ -11,4 +11,4 @@ db.createUser(
     }
 );
 
-//creates user using .env paramaters, starting database and establishing user
+//creates user using parameters specified in .env, starting database and establishing user

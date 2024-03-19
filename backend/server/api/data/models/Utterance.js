@@ -9,3 +9,5 @@ const utteranceSchema = new Schema ({
 });
 
 module.exports = mongoose.model("Utterance", utteranceSchema);
+
+//data storage format of "Utterance"

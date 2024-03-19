@@ -1,3 +1,4 @@
+//establishes websocket connection, connecting to the database with TCPs
 const express = require('express');
 const axios = require('axios');
 const websocketRouter = express.Router();

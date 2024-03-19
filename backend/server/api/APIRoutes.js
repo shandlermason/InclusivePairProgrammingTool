@@ -6,12 +6,13 @@ const Session = require("./data/models/Session");
 const User = require("./data/models/User");
 const Utterance = require("./data/models/Utterance");
 const Report = require("./data/models/Report");
-
+//creates routes for models and creates ways to store data types while posting/getting from database
 
 /************\
 * API ROUTES *
 \************/
 // Insert a Session
+//creates session with two users, which it sends to database
 apiRouter.post("/sessions/:user1_id/:user2_id", async (req, res) => {
     const user1Id = req.params.user1_id;
     const user2Id = req.params.user2_id;
@@ -58,6 +59,7 @@ apiRouter.post("/sessions/:user1_id/:user2_id", async (req, res) => {
 });
 
 // Insert a new utterance
+//
 apiRouter.post("/utterances", async (req, res) => {
     const utterance = new Utterance({
         user_id: req.body.user_id,

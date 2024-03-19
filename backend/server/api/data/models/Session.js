@@ -7,3 +7,5 @@ const sessionSchema = new Schema({
 });
 
 module.exports = mongoose.model("Session", sessionSchema);
+
+//data storage format of "Session"

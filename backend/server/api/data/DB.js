@@ -1,3 +1,7 @@
+/**
+This file connects to mongo db network using .env parameters
+*/
+
 const mongoose = require('mongoose');
 require("dotenv").config();
 

@@ -11,3 +11,5 @@ const userSchema = new Schema({
 });
 
 module.exports = mongoose.model("User", userSchema);
+
+//data storage format of "User"

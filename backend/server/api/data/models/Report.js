@@ -10,3 +10,5 @@ const reportSchema = new Schema({
 });
 
 module.exports = mongoose.model("Report", reportSchema);
+
+//data storage format of "Report"
